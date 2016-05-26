@@ -17,13 +17,11 @@ social:
   - title: twitter
     url: https://twitter.com/@MFramudytha
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url:https://facebook.com/Maretha Framudytha
+  - title: blog
+    url: http://maretha.framudytha@gmail.com
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://maretha21.github.io
 
 # Build settings
 markdown: kramdown
