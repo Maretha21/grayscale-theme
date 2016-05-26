@@ -344,13 +344,13 @@ footer p {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #fcfcfc;
+    background: #f28cb5;
     background: rgba(255,255,255,.2);
 }
 
 ::selection {
     text-shadow: none;
-    background: #fcfcfc;
+    background: #f28cb5;
     background: rgba(255,255,255,.2);
 }
 
